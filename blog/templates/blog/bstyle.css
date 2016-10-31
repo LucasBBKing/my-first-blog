@@ -1,0 +1,16 @@
+@charset'UTF-8'
+
+p {
+
+    text-indent:100px;
+}
+
+h1 {
+    text-align:center;
+    text-indent:150px;
+}
+
+h2 {
+    color: red;
+    text-indent:100px;
+}
